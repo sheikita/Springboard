@@ -1,2 +1,2 @@
 # Springboard
-Contains projects/assignments
+Contains solutions to projects/assignments
